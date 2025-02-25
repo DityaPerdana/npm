@@ -1,6 +1,6 @@
 {
   "name": "ditya-package-hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ini npm package yang gw buat gara gara gabut",
   "main": "index.js",
   "scripts": {
