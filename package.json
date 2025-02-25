@@ -1,0 +1,23 @@
+{
+  "name": "ditya-package-hello",
+  "version": "1.0.0",
+  "description": "Ini npm package yang gw buat gara gara gabut",
+  "main": "index.js",
+  "scripts": {
+    "test": "ditya"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DityaPerdana/npm.git"
+  },
+  "keywords": [
+    "ditya",
+    "perdana"
+  ],
+  "author": "ditya perdana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DityaPerdana/npm/issues"
+  },
+  "homepage": "https://github.com/DityaPerdana/npm#readme"
+}
