@@ -1,4 +1,4 @@
-# Nama Package Saya
+# Ditya-package-hello
 
 aku adalah javascript dan javascript adalah aku
 
